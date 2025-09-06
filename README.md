@@ -21,4 +21,13 @@ No clutter, no noise—just clean weather insights at your fingertips.
 | **OpenWeather**  | Reliable weather data API            |
 
 
+## 🚀 Getting Started
+
+### 1️⃣ Clone & Install
+```bash
+git clone https://github.com/your-username/forecastly.git
+cd forecastly
+npm install
+
+
 
