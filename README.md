@@ -21,4 +21,4 @@ No clutter, no noise—just clean weather insights at your fingertips.
 | **OpenWeather**  | Reliable weather data API            |
 
 
-npm install
+
