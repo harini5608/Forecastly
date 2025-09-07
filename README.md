@@ -1,7 +1,7 @@
 # 🌤️ Forecastly – Your Personal Weather Companion
 
 Forecastly is a sleek and minimal **React-based weather app** that gives you instant, accurate weather updates.  
-No clutter, no noise—just clean weather insights at your fingertips.  
+No clutter, no noise-just clean weather insights at your fingertips.  
 
 ---
 
