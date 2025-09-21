@@ -1,25 +1,30 @@
 # 🌤️ Forecastly – Your Personal Weather Companion
 
 Forecastly is a sleek and minimal **React-based weather app** that gives you instant, accurate weather updates.  
-No clutter, no noise-just clean weather insights at your fingertips.  
+No clutter, no noise—just clean weather insights at your fingertips.  
 
 ---
 
-## ✨ Why Forecastly?
-- 🔍 **City Search Made Simple:** Find weather details for any city worldwide.
-- 🌡️ **Live Weather Data:** Temperature, humidity, wind speed, and more.
-- 🎨 **Dynamic UI:** Backgrounds and icons adapt to the current weather.
-- ⚡ **Blazing Fast:** Built with React + Vite for instant loading.
+## ✨ Features
 
+- **City Search Made Simple** – Search for any city worldwide and get instant weather updates.  
+- **Live Weather Data** – View temperature, humidity, wind speed, and more in real-time.  
+- **Adaptive UI** – Background changes based on the current weather.  
+- **Responsive Design** – Built with **Material-UI** for clean, modern, and responsive components.  
+- **Fast Performance** – React + Vite ensures lightning-fast loading.  
 
-## 🛠️ Tech Behind the Magic
+---
+
+## 🛠️ Tech Stack
+
 | Technology       | Purpose                               |
 |------------------|--------------------------------------|
-| **React**        | Frontend library for UI components    |
+| **React**        | Frontend library for building UI     |
 | **Vite**         | Fast development build tool          |
-| **Tailwind CSS** | Modern, responsive styling           |
+| **Material-UI**  | Modern, responsive UI components     |
 | **OpenWeather**  | Reliable weather data API            |
 
+---
 
 ## 🚀 Getting Started
 
@@ -28,6 +33,5 @@ No clutter, no noise-just clean weather insights at your fingertips.
 git clone https://github.com/your-username/forecastly.git
 cd forecastly
 npm install
-
 
 
